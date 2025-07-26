@@ -1,0 +1,501 @@
+task_id,task_description,created_at,due_date,assigned_to,priority,status,category,estimated_hours,actual_hours,user_workload,user_skill_level
+1,Part value various production behind matter growth important.,23-06-2025,23-06-2025,user_1,Medium,Done,Improvement,2.2,1.9,3,Intermediate
+2,Race long dinner war painting chair certainly.,17-06-2025,18-06-2025,user_9,Medium,To Do,Feature,9.5,8.2,4.4,Expert
+3,Question arrive he window film your recently tend.,26-05-2025,20-06-2025,user_5,Medium,To Do,Feature,2.4,1.9,5.6,Beginner
+4,Popular understand feeling chance drug growth per career war.,11-05-2025,04-06-2025,user_5,Medium,Done,Feature,8.8,8.8,2.4,Expert
+5,Him official behavior book perhaps low book popular nothing series history throughout.,08-06-2025,21-07-2025,user_8,Low,Done,Improvement,2.6,3.4,5.4,Intermediate
+6,Little blue consider must much company sometimes player best account federal.,29-04-2025,11-05-2025,user_7,Medium,To Do,Improvement,6.4,8.2,3.8,Intermediate
+7,Various nearly hour for course region reality operation rule only many card peace.,14-06-2025,15-06-2025,user_4,High,In Progress,Bug,7.2,6.8,8.3,Beginner
+8,Audience assume window military either change.,31-05-2025,14-07-2025,user_10,High,In Progress,Feature,8.9,8.6,6.4,Intermediate
+9,Week affect treatment concern its Mr.,05-05-2025,13-05-2025,user_4,High,To Do,Feature,2.1,2.2,5.3,Expert
+10,Goal position more their ten front sign environmental.,22-05-2025,17-06-2025,user_4,Medium,Done,Feature,9.5,11,1.9,Intermediate
+11,Argue participant film wear suffer day wide arm wear maybe.,01-05-2025,15-05-2025,user_9,Medium,In Progress,Feature,6,3.8,3.3,Beginner
+12,Phone age perform media company security.,14-06-2025,18-06-2025,user_2,Low,In Progress,Improvement,6.3,5.3,10.1,Expert
+13,Company line know outside though plant small.,08-05-2025,01-07-2025,user_5,High,To Do,Feature,1.6,1.6,1.2,Intermediate
+14,Rather early tonight special those less there politics long.,16-05-2025,31-05-2025,user_8,Low,In Progress,Feature,9.7,9.7,3.7,Intermediate
+15,Road black cut decide hold rather she.,12-06-2025,03-07-2025,user_7,High,In Progress,Improvement,2.9,2.9,11.4,Expert
+16,Design provide sense blue everyone than kid entire probably provide bad responsibility whether.,03-05-2025,25-05-2025,user_1,Low,In Progress,Improvement,5.8,5.4,2.4,Intermediate
+17,Near wind sometimes treat when boy worry.,25-05-2025,26-05-2025,user_6,High,In Progress,Improvement,9.5,12.6,7,Beginner
+18,Process draw industry national around those her herself pretty history question especially us.,21-05-2025,24-05-2025,user_9,Medium,To Do,Feature,8.6,8.6,11.3,Intermediate
+19,Different turn simply blood oil guy outside successful but case season even might.,13-05-2025,01-07-2025,user_10,Medium,In Progress,Feature,10.2,9.9,1.8,Beginner
+20,Point fact civil such each administration society these poor middle reality.,15-06-2025,05-07-2025,user_6,Medium,In Progress,Bug,3.3,3.8,2.2,Intermediate
+21,Team marriage all herself much detail evidence.,27-05-2025,22-06-2025,user_5,Low,To Do,Bug,4.3,2.7,1.7,Intermediate
+22,Measure Congress capital behind major manage friend to word.,25-06-2025,03-07-2025,user_1,Medium,In Progress,Feature,11.5,12.1,6.1,Expert
+23,Factor program assume old but I more involve ask opportunity make know lay improve.,20-06-2025,30-06-2025,user_3,Medium,Done,Feature,4.9,5,8,Beginner
+24,Test citizen garden thus measure behind look.,07-05-2025,27-05-2025,user_10,Medium,To Do,Feature,3.1,4.2,7.1,Beginner
+25,Race light answer avoid late front.,21-06-2025,06-07-2025,user_2,Medium,To Do,Feature,3.9,4.7,9.3,Expert
+26,Movie painting like year phone course.,18-05-2025,23-06-2025,user_6,Medium,To Do,Feature,7.3,6.2,6.6,Beginner
+27,Thought tax art painting area black total piece real.,18-05-2025,09-07-2025,user_7,Medium,To Do,Feature,1.8,2.2,2,Intermediate
+28,Large force campaign decide as degree candidate.,08-05-2025,11-05-2025,user_9,Medium,To Do,Feature,7.2,7.2,9.1,Intermediate
+29,Goal agency strong bed company receive hotel also run recently fish service prepare.,29-05-2025,06-06-2025,user_10,Medium,To Do,Feature,2.5,2.5,9.7,Expert
+30,Single treat nice item avoid lot score before amount.,01-06-2025,02-07-2025,user_5,Low,In Progress,Improvement,4.1,3.8,5.9,Beginner
+31,Debate least gas them create fill.,13-06-2025,24-06-2025,user_9,High,In Progress,Improvement,3.9,3.5,11.7,Beginner
+32,Could your difference enjoy already car cold administration national defense it story.,11-06-2025,29-06-2025,user_2,Medium,In Progress,Feature,10.3,11.9,2.9,Intermediate
+33,Goal structure time soon often main concern focus.,25-05-2025,21-06-2025,user_5,Medium,To Do,Feature,2.1,2,2.7,Intermediate
+34,Paper environmental mention set challenge parent theory baby person system pull three lose.,07-06-2025,17-07-2025,user_4,Medium,In Progress,Bug,11,10.9,3.3,Intermediate
+35,Impact hour practice rate hundred say other sense section develop her sister.,12-05-2025,07-07-2025,user_6,Low,Done,Improvement,11,12.5,11.8,Intermediate
+36,Rest member pay other late able indeed type political future similar great.,06-05-2025,15-06-2025,user_3,Medium,In Progress,Improvement,7.8,9.7,11.8,Expert
+37,New few common between pay child task sit southern.,06-06-2025,11-06-2025,user_6,Medium,In Progress,Improvement,6.6,4.8,1.3,Intermediate
+38,Police late wind include third sound have describe avoid situation gun easy rather.,01-05-2025,10-05-2025,user_2,Medium,To Do,Feature,7,6.8,6,Beginner
+39,Beyond artist miss find account stop read heavy rather forward apply form light role.,13-05-2025,25-06-2025,user_2,High,In Progress,Improvement,3.7,4.1,5.4,Expert
+40,Provide pattern probably run act fear have audience go brother.,28-05-2025,18-06-2025,user_9,Medium,To Do,Feature,2.9,3.2,11.6,Intermediate
+41,Ten attention whose though treat state someone anything reason plant again job seem.,15-06-2025,04-07-2025,user_10,Low,Done,Bug,9.4,10.7,7,Intermediate
+42,Shoulder beyond knowledge generation consumer material team day increase little relationship long nothing.,25-06-2025,16-07-2025,user_7,High,To Do,Improvement,1.8,2.7,11.9,Expert
+43,Sing general vote fact compare job.,09-06-2025,09-07-2025,user_2,Medium,To Do,Improvement,5.9,6.1,2.2,Expert
+44,Kind country tax why wait work great painting.,19-05-2025,12-06-2025,user_4,High,Done,Feature,7.3,8.5,3.3,Beginner
+45,Surface trip home forget most recognize.,08-05-2025,07-07-2025,user_8,Medium,To Do,Feature,11.1,8.3,3.2,Expert
+46,City place remain stage Republican represent.,16-05-2025,25-06-2025,user_7,High,In Progress,Feature,9.7,7.5,5.2,Beginner
+47,Training make ok that authority guess far first chance start century tax.,01-06-2025,03-07-2025,user_8,Medium,In Progress,Bug,11.3,8.3,1.3,Intermediate
+48,Could theory tough discussion field despite will about our new discussion anything among image.,21-05-2025,02-07-2025,user_10,Medium,In Progress,Feature,4.1,3.4,4.9,Beginner
+49,Happy professor whom discussion mind discover either win benefit its walk include try.,25-05-2025,02-06-2025,user_9,High,To Do,Feature,3.1,2.7,2.5,Expert
+50,Executive similar give include record economic through.,17-05-2025,17-05-2025,user_8,Medium,In Progress,Bug,5.1,2.9,4.4,Expert
+51,Positive soldier beat religious voice tree consumer anything especially skin people step member.,06-06-2025,24-06-2025,user_9,High,Done,Feature,4.2,3.9,1.2,Expert
+52,Assume try address unit accept suddenly.,05-06-2025,24-07-2025,user_1,Medium,In Progress,Improvement,2.9,3,7,Intermediate
+53,As cause charge join job friend center body house food have range impact.,19-05-2025,24-06-2025,user_4,Medium,Done,Improvement,1.6,1.3,1.4,Beginner
+54,Democratic entire direction wife yard where.,27-04-2025,30-04-2025,user_2,Medium,To Do,Feature,4.3,3,1.2,Beginner
+55,Last instead yourself those market yourself establish seat accept drop food idea candidate.,01-05-2025,23-05-2025,user_2,Medium,In Progress,Feature,4.7,3.2,4.5,Intermediate
+56,Show involve last each movie lay anyone mother seek whom.,13-06-2025,22-07-2025,user_8,Medium,In Progress,Feature,7.3,9.3,9.2,Expert
+57,Series big forget few rich health claim business suddenly help fight.,06-06-2025,30-06-2025,user_7,Medium,To Do,Feature,7,4.8,11.4,Expert
+58,Certainly up happen stage accept himself.,15-05-2025,22-07-2025,user_4,High,To Do,Feature,1.2,1.1,7.9,Intermediate
+59,Age current power billion concern clearly.,22-06-2025,18-07-2025,user_3,Medium,To Do,Bug,8.3,4.7,8.7,Beginner
+60,Thought increase door receive strategy table.,16-05-2025,01-06-2025,user_5,High,To Do,Bug,10.3,8.8,11.9,Expert
+61,Position none detail suddenly administration not party defense human.,16-05-2025,23-07-2025,user_6,High,To Do,Improvement,3.8,4,9.5,Intermediate
+62,Listen him month power successful American per.,19-05-2025,31-05-2025,user_1,Medium,In Progress,Improvement,2.7,3.2,2.1,Beginner
+63,Point establish drug identify fill court campaign.,04-05-2025,07-05-2025,user_10,High,In Progress,Feature,10.1,9.9,11.3,Intermediate
+64,Leader out debate how institution occur expect.,29-04-2025,14-06-2025,user_5,Medium,In Progress,Feature,10,8.9,7.8,Intermediate
+65,Entire cold skin cut write woman court catch fear probably yes big board.,27-04-2025,26-06-2025,user_4,Medium,Done,Bug,8.8,9.1,9.4,Intermediate
+66,Firm society create information teach toward particular box office be suddenly police.,16-06-2025,09-07-2025,user_4,Low,To Do,Bug,5.7,7.2,11.6,Beginner
+67,Soldier see during goal dog cup generation weight.,21-05-2025,13-06-2025,user_9,Medium,Done,Bug,11,11.6,9.4,Expert
+68,Alone dog suffer range south notice billion drug.,27-05-2025,22-07-2025,user_9,Low,Done,Bug,8.2,7.6,3,Intermediate
+69,Sell song appear economic increase she detail.,23-05-2025,30-05-2025,user_5,Medium,Done,Feature,6.2,6.9,11.4,Expert
+70,Food data suffer better senior actually theory method collection second security capital.,05-06-2025,02-07-2025,user_4,Medium,To Do,Bug,8.4,7.5,3,Expert
+71,Away girl leg long after social.,01-06-2025,24-07-2025,user_3,Medium,In Progress,Feature,6.7,6.8,10.4,Intermediate
+72,Along send image born weight question run ability beat a.,01-06-2025,15-07-2025,user_8,High,Done,Feature,8.1,10.4,2.3,Expert
+73,Director old go recent country our such major someone paper travel beautiful major.,20-06-2025,12-07-2025,user_6,Medium,In Progress,Bug,6.2,7.1,1.4,Expert
+74,Energy way type wait third case never own dream gun dinner.,21-06-2025,17-07-2025,user_6,Medium,To Do,Improvement,4,3,5.1,Beginner
+75,Seem try start eat along between recent series between bar now defense.,05-05-2025,12-06-2025,user_4,High,In Progress,Bug,8.5,6.1,5.8,Beginner
+76,Simply season Democrat travel read order keep side weight let usually growth seven.,26-05-2025,13-07-2025,user_4,Medium,In Progress,Feature,9.7,10.9,4.9,Intermediate
+77,Set talk interview close whatever hospital.,03-06-2025,24-06-2025,user_4,Medium,Done,Feature,10.9,11.5,10,Expert
+78,Husband huge stay table crime shoulder each natural gun.,14-05-2025,16-07-2025,user_5,Low,In Progress,Improvement,9.1,7.3,5.3,Expert
+79,West need child including each mean either full position customer particular friend.,03-05-2025,10-05-2025,user_7,Medium,To Do,Bug,1.6,1.5,4.9,Expert
+80,Main table entire scene together once.,29-05-2025,29-06-2025,user_6,Low,To Do,Feature,6.3,7.3,8.2,Intermediate
+81,Go report phone out understand together contain north act.,09-05-2025,12-07-2025,user_8,Low,In Progress,Improvement,8.5,6.9,1.5,Intermediate
+82,Account event son between a evidence red cold attack moment rule.,09-06-2025,15-07-2025,user_2,Medium,To Do,Bug,6.5,8.2,5.3,Intermediate
+83,Will size else know establish cold.,20-05-2025,19-06-2025,user_2,Medium,To Do,Feature,10.2,10.9,7.5,Expert
+84,To night difficult nation half tonight away.,22-05-2025,28-05-2025,user_6,High,In Progress,Bug,4.1,5.1,8.6,Intermediate
+85,Election those protect around wife camera development idea son writer expect less marriage.,11-05-2025,28-05-2025,user_7,Medium,To Do,Improvement,9.1,5.9,7.8,Intermediate
+86,Garden occur cell admit season enough.,24-05-2025,24-07-2025,user_6,Low,In Progress,Feature,6.6,8.2,1.2,Expert
+87,Read rule reason describe spend lot protect.,05-06-2025,06-06-2025,user_4,Medium,In Progress,Feature,5.6,4.8,11.4,Expert
+88,Best find college feel on condition.,05-05-2025,21-06-2025,user_10,Medium,Done,Feature,10.9,8.4,3.3,Intermediate
+89,Sense along wall this thousand candidate.,28-05-2025,15-06-2025,user_1,Medium,In Progress,Feature,9.7,7.5,8,Intermediate
+90,Option certainly back culture less score important government form fish.,03-05-2025,04-05-2025,user_6,Medium,Done,Bug,9.1,8.2,6.6,Intermediate
+91,Debate deep every at together action move.,05-05-2025,23-05-2025,user_5,Medium,Done,Improvement,3,3.3,7.9,Beginner
+92,Sort have each allow south design possible money ask training natural usually.,01-06-2025,11-07-2025,user_1,Medium,To Do,Bug,7.8,7.1,8.3,Beginner
+93,Job street marriage need card energy read rule fall.,10-05-2025,22-06-2025,user_7,Medium,Done,Bug,2.2,2,10.6,Expert
+94,Before night worker along work east coach early around expert side from memory.,29-05-2025,02-06-2025,user_4,High,To Do,Bug,3.4,3,2.3,Intermediate
+95,Mention continue heart whose stage almost player behavior.,07-06-2025,02-07-2025,user_6,Medium,To Do,Bug,1.9,2.2,1.2,Beginner
+96,Support bank every wait admit free general fine a officer lawyer know.,03-06-2025,23-07-2025,user_7,Medium,Done,Feature,9.6,6.9,10,Intermediate
+97,Never though similar staff song nearly second team gas so technology again side.,01-06-2025,30-06-2025,user_4,Medium,In Progress,Feature,11.7,16.5,4.1,Expert
+98,Six daughter strong let six visit.,09-06-2025,06-07-2025,user_2,Low,In Progress,Improvement,11.9,13.6,3.6,Beginner
+99,Thus camera position minute single participant traditional event plant low myself wait step.,25-06-2025,26-06-2025,user_6,High,To Do,Bug,3.1,3.7,2.6,Intermediate
+100,Rise environment measure inside eight yes throughout seat lead scene truth.,07-05-2025,23-06-2025,user_3,High,Done,Feature,7.7,6,1.1,Intermediate
+101,Ball develop traditional effort drive follow but paper serve toward behavior student.,18-06-2025,20-07-2025,user_8,Medium,To Do,Bug,10.7,12.9,8.9,Intermediate
+102,Fly reason small effect candidate nice soon health.,13-05-2025,23-05-2025,user_10,Medium,In Progress,Feature,2.2,2.9,6.3,Beginner
+103,Leader whose thus still explain call.,21-05-2025,13-07-2025,user_4,Low,In Progress,Improvement,2.3,2.6,7.5,Expert
+104,Whom firm us door former get audience interview service memory.,26-05-2025,12-06-2025,user_5,Medium,To Do,Improvement,8.8,7.7,9.7,Intermediate
+105,Give over person professor prepare new wish yet quickly.,03-06-2025,08-06-2025,user_6,Medium,To Do,Bug,11.7,11.9,2.2,Expert
+106,School through concern soon table happen.,02-05-2025,25-05-2025,user_9,Medium,In Progress,Feature,5.7,4.4,7.7,Intermediate
+107,College item probably let defense relationship with without ten create beyond which.,17-06-2025,23-07-2025,user_1,Medium,To Do,Bug,5.6,4.2,7.3,Beginner
+108,Onto mind why serious after through time enough current avoid talk challenge.,12-05-2025,07-07-2025,user_1,Medium,Done,Improvement,3.5,4.3,9.8,Expert
+109,Bank speech simple form view college one public later.,27-05-2025,27-05-2025,user_3,High,Done,Improvement,7.6,6.4,1.1,Intermediate
+110,Improve attorney young unit by affect whom remember others benefit parent.,10-06-2025,16-06-2025,user_3,Low,Done,Improvement,2.8,2.4,9.4,Beginner
+111,Town easy discussion resource traditional picture.,04-06-2025,28-06-2025,user_10,Low,Done,Improvement,7.6,6.2,3.8,Intermediate
+112,Close environmental yourself suggest too myself any middle from including put.,10-06-2025,10-06-2025,user_7,Medium,In Progress,Feature,3.8,3.1,6.9,Expert
+113,Director relate land me determine kitchen exactly during player heavy weight.,14-06-2025,23-06-2025,user_2,Medium,To Do,Bug,2.9,2.8,7.1,Expert
+114,Fund project reality benefit allow even which hand hair allow such act.,10-06-2025,15-07-2025,user_7,Low,To Do,Improvement,9.5,8.4,2.6,Intermediate
+115,Course us buy often major cultural responsibility billion.,14-05-2025,23-07-2025,user_7,High,To Do,Bug,4.1,3.6,6.4,Intermediate
+116,Budget represent theory tell rather sort.,09-05-2025,09-07-2025,user_4,Medium,In Progress,Feature,10.5,9.8,11.9,Intermediate
+117,Walk read executive including future if author company him push ability available adult.,10-05-2025,15-05-2025,user_10,Medium,To Do,Bug,5.3,5.5,5.4,Intermediate
+118,Hard inside end instead make wrong contain never early main service.,01-05-2025,17-05-2025,user_8,Medium,Done,Feature,8.3,9.4,4.7,Expert
+119,Most against article me ok brother.,13-06-2025,19-06-2025,user_2,Medium,In Progress,Feature,4.2,2,11.5,Beginner
+120,Coach issue security strategy away almost knowledge pull.,24-06-2025,21-07-2025,user_3,Low,Done,Improvement,5.6,5.1,9.8,Intermediate
+121,Book national decision first how these question.,18-05-2025,11-06-2025,user_5,Medium,In Progress,Bug,2.5,3.7,2.2,Intermediate
+122,Others hear level operation community perform such pick.,31-05-2025,07-07-2025,user_4,High,Done,Bug,3.9,3,1.4,Intermediate
+123,Huge action summer sort house end bill perhaps these.,11-06-2025,20-07-2025,user_6,Medium,To Do,Improvement,5.2,7.2,10.7,Expert
+124,Special cut plan how bar mention soon expert may son have outside.,03-06-2025,07-07-2025,user_3,Medium,To Do,Feature,8.1,7.8,8.9,Expert
+125,Party adult onto range sort floor apply.,17-05-2025,08-07-2025,user_9,High,To Do,Bug,7.2,10.2,10.6,Beginner
+126,Election him believe unit expert discover authority stand wear some surface significant begin.,09-06-2025,09-07-2025,user_8,Medium,To Do,Bug,7.1,7.5,4.4,Expert
+127,Blue put street Republican exactly statement billion fine happen life term spring soldier.,27-04-2025,10-06-2025,user_4,Medium,To Do,Bug,2.4,2.3,1.8,Intermediate
+128,Continue energy itself director ball so out church reflect art behind peace.,15-06-2025,17-07-2025,user_4,High,In Progress,Bug,4,3.4,4.5,Expert
+129,Reflect election present staff one inside she detail movie chair already.,11-06-2025,24-06-2025,user_10,High,In Progress,Improvement,9.3,8.1,7.4,Intermediate
+130,Artist right debate parent partner success add society use anything learn exactly.,08-06-2025,07-07-2025,user_5,High,In Progress,Improvement,6.2,6.3,8,Expert
+131,Go partner stock save long perhaps player effect trip nor as collection degree.,20-05-2025,08-07-2025,user_8,Medium,To Do,Feature,11.7,7.9,5.7,Expert
+132,Cup be him because fill group training house example instead election again.,07-06-2025,25-06-2025,user_4,Medium,To Do,Bug,2.3,2.2,3.9,Expert
+133,For society team write yet enter front them bank.,10-05-2025,23-05-2025,user_3,Low,In Progress,Feature,8.4,9.6,7.7,Beginner
+134,Arm employee item wear work notice during.,11-05-2025,20-07-2025,user_2,High,Done,Bug,3.9,3.8,9.1,Intermediate
+135,Value put line remember key effort myself pattern.,11-06-2025,07-07-2025,user_5,High,To Do,Improvement,7.6,5.2,2.5,Intermediate
+136,Owner five fill grow past trial.,10-05-2025,19-05-2025,user_7,Medium,Done,Improvement,11.1,12.7,10.6,Expert
+137,Charge good hope rather American think its beyond find.,04-06-2025,28-06-2025,user_6,Low,Done,Bug,9.2,10.1,10.2,Beginner
+138,Out simple season month government outside as recent pressure short institution.,24-05-2025,17-06-2025,user_5,Medium,In Progress,Feature,9.6,9.6,4.5,Beginner
+139,Trial yet difference seat professor however both.,11-06-2025,03-07-2025,user_5,Medium,In Progress,Improvement,6.4,8.4,9.2,Intermediate
+140,Culture sit our approach story despite family finally car change leader.,18-05-2025,29-05-2025,user_8,High,In Progress,Feature,5.8,5.5,2,Beginner
+141,Cell use institution crime arm live great act wish term.,03-05-2025,10-06-2025,user_6,Medium,Done,Feature,7.3,7.5,2.1,Expert
+142,Field adult nearly agency claim mean another sign.,21-05-2025,11-07-2025,user_3,Medium,Done,Improvement,11.8,12.4,11.5,Expert
+143,Value morning nearly best step evening lot.,10-05-2025,28-05-2025,user_1,Medium,To Do,Bug,4.3,3.6,11.1,Beginner
+144,Spring fire add reduce material bit interest.,29-04-2025,11-07-2025,user_3,High,Done,Bug,7.8,7.6,6.2,Intermediate
+145,Western event sing growth value growth describe speak might each include own record month.,03-06-2025,25-06-2025,user_5,Medium,In Progress,Feature,4.8,5.3,3.5,Intermediate
+146,Challenge support decision character themselves fine simply never market.,18-05-2025,18-06-2025,user_6,Low,In Progress,Improvement,2.6,3.2,8.6,Beginner
+147,Sometimes pick yeah unit safe point walk clearly anyone rise part fight note.,30-05-2025,06-07-2025,user_5,Low,In Progress,Improvement,8.2,7,1.2,Expert
+148,Up religious popular maybe keep a reach speech your similar may sport.,11-06-2025,27-06-2025,user_9,Medium,To Do,Bug,2.5,2.9,11.9,Expert
+149,Movie can reduce candidate information partner program receive rest nearly away important.,10-06-2025,25-07-2025,user_8,High,To Do,Bug,9.9,8.9,6.9,Expert
+150,Send term policy oil thus line pass drive great.,06-06-2025,19-07-2025,user_8,Medium,To Do,Improvement,6.9,6.3,2,Intermediate
+151,These those west we want house child bill across hour business foot.,10-06-2025,12-06-2025,user_9,Medium,In Progress,Bug,11.4,12.1,4.3,Intermediate
+152,Happy single memory approach bed set yeah yes admit federal whom audience.,08-06-2025,06-07-2025,user_2,Medium,To Do,Improvement,6.3,6.4,2.4,Intermediate
+153,Top tend sometimes control brother some similar apply.,22-05-2025,27-05-2025,user_10,High,To Do,Improvement,3.5,4.4,5.9,Expert
+154,Former until section mean factor find animal every quickly great.,06-06-2025,14-07-2025,user_4,Medium,To Do,Feature,5.7,4.2,3,Expert
+155,Hit station challenge list eight environmental building seek have than war.,15-06-2025,25-06-2025,user_10,Medium,To Do,Improvement,6.8,6.3,4.8,Expert
+156,Price identify second agreement billion wait course we finish artist.,03-06-2025,10-06-2025,user_9,Medium,In Progress,Improvement,9.6,8.3,7.1,Expert
+157,Peace listen production idea anything administration trip list name full.,11-06-2025,24-07-2025,user_9,Low,In Progress,Bug,6.1,6.3,2,Intermediate
+158,Road six film character head ago.,15-05-2025,09-07-2025,user_10,Medium,To Do,Feature,3.4,3.1,1.4,Beginner
+159,Teacher pull consider child center can.,07-05-2025,08-06-2025,user_3,High,In Progress,Improvement,5.8,4.5,8.8,Expert
+160,Reveal front like pass reach physical lose prove about middle shoulder.,15-05-2025,27-06-2025,user_3,Low,In Progress,Bug,1.8,2,3.2,Beginner
+161,Though itself deep medical respond gun store evening degree.,19-06-2025,22-07-2025,user_8,Low,To Do,Improvement,2.9,3,5.7,Intermediate
+162,You build create do beat edge west shake difficult listen.,21-05-2025,09-07-2025,user_5,High,To Do,Improvement,5.5,4.7,8.9,Intermediate
+163,Middle deep arm try herself them happen present.,04-05-2025,01-06-2025,user_2,Medium,To Do,Bug,7.7,6.4,6,Intermediate
+164,Will decade campaign turn forward season different safe plan agreement.,04-06-2025,18-06-2025,user_8,Low,To Do,Feature,6.1,6.2,9.2,Intermediate
+165,Simply speech reason maintain tax out high term indeed property thing recently.,14-05-2025,15-06-2025,user_6,Medium,Done,Bug,2.2,2.1,10.2,Expert
+166,Pm go I miss else ever wife do during high agent material.,07-05-2025,18-06-2025,user_10,Low,To Do,Feature,10.7,13.1,4.5,Intermediate
+167,Necessary ability statement music finish market read training million top study.,30-04-2025,06-07-2025,user_3,Low,Done,Feature,11,7.9,11.1,Intermediate
+168,Former give policy while sea book would.,09-06-2025,26-06-2025,user_4,Medium,Done,Improvement,5,6.1,10,Beginner
+169,Parent still develop try life discuss newspaper particular sea individual.,19-05-2025,18-06-2025,user_5,Low,In Progress,Bug,8.7,9.6,9,Beginner
+170,Pick discussion book agency throughout interview sea room contain.,14-05-2025,11-07-2025,user_6,Medium,To Do,Improvement,11.7,13.6,6.7,Expert
+171,Ask push also every prevent modern score think lay other student different report.,24-05-2025,03-07-2025,user_9,Low,In Progress,Improvement,3.7,4,10.8,Beginner
+172,Yard standard deal fact not article.,03-05-2025,19-06-2025,user_9,High,To Do,Bug,2.8,2.8,10.7,Expert
+173,No we early skill about investment beyond.,21-06-2025,03-07-2025,user_6,Medium,In Progress,Feature,1.8,1.2,8.5,Beginner
+174,Discussion yeah back former draw figure soldier analysis win.,19-06-2025,06-07-2025,user_2,Medium,Done,Bug,5.9,6.2,11.8,Intermediate
+175,Stay degree everybody understand activity dream Democrat under summer number example.,08-06-2025,20-07-2025,user_1,Medium,In Progress,Feature,11.2,11.3,3.9,Intermediate
+176,Picture lead force effect certainly all none blood along middle back ago seat.,25-05-2025,22-07-2025,user_1,High,To Do,Improvement,10.5,12.1,11.7,Intermediate
+177,Boy evidence might discuss one enter worry fight later local bring.,02-05-2025,21-05-2025,user_6,Low,Done,Improvement,10.5,10.7,5.6,Expert
+178,Base cold even including rock opportunity possible however raise station.,15-05-2025,18-06-2025,user_4,Medium,To Do,Bug,8.2,8.2,6.8,Intermediate
+179,Foot once system yet sign before kid.,12-06-2025,11-07-2025,user_6,Medium,Done,Feature,1.7,1.8,8.3,Beginner
+180,Huge follow school we important against run technology.,11-05-2025,13-07-2025,user_3,Medium,In Progress,Bug,3.4,2.7,1.5,Expert
+181,Mind culture research up chance dark seem home I investment piece far.,07-06-2025,17-07-2025,user_2,High,To Do,Improvement,3.6,2.7,7.2,Expert
+182,Government too hospital either worker clear clear market ability.,01-05-2025,24-06-2025,user_8,Low,In Progress,Bug,1.3,1.1,4.7,Expert
+183,Memory test candidate will goal population occur.,19-05-2025,11-07-2025,user_1,Low,To Do,Improvement,7.3,9.4,11.5,Beginner
+184,Executive able term new bag about international team role yet treatment can.,29-05-2025,19-07-2025,user_6,Medium,To Do,Bug,3.4,3.5,8.1,Expert
+185,Product police rise less learn break long close section ten north page manage.,23-05-2025,12-06-2025,user_6,Medium,In Progress,Bug,11.7,13.2,6.5,Beginner
+186,Similar recent air already appear yet bed trouble election effort.,05-05-2025,07-07-2025,user_8,Medium,In Progress,Bug,8.6,10.9,3.9,Expert
+187,Message front early game glass glass evidence matter deep most question develop.,21-06-2025,08-07-2025,user_3,Low,To Do,Improvement,6.3,6.6,7.4,Expert
+188,Thought support turn collection day nature attorney business star through despite many.,20-06-2025,08-07-2025,user_6,High,To Do,Bug,4.3,4.7,1.8,Intermediate
+189,Admit hospital and dark term race per.,28-04-2025,23-07-2025,user_1,Low,In Progress,Feature,2.8,2.8,2.1,Intermediate
+190,Interview example quality administration green amount yard.,16-06-2025,24-06-2025,user_3,Medium,In Progress,Feature,4.7,4.6,3.9,Expert
+191,Role worker ten manage kitchen outside go care south military visit effort.,30-05-2025,24-07-2025,user_7,Medium,In Progress,Improvement,7.5,7.4,6.3,Intermediate
+192,Tough carry kind growth value have high bed could manage in.,19-06-2025,12-07-2025,user_1,High,To Do,Improvement,8.1,7.4,9.8,Intermediate
+193,Thing class event peace our specific official.,14-05-2025,15-05-2025,user_10,Medium,To Do,Improvement,6.3,5.3,1.9,Intermediate
+194,Center within say magazine close improve.,08-06-2025,01-07-2025,user_5,Medium,To Do,Bug,11.7,14.1,9.5,Expert
+195,Agree turn college letter inside analysis.,08-06-2025,15-07-2025,user_3,Medium,To Do,Bug,9.3,9.4,5.7,Expert
+196,Government vote interesting glass believe education able ball name within month could.,21-05-2025,25-05-2025,user_5,High,In Progress,Improvement,4.9,4.5,2.5,Intermediate
+197,Long nation type now perhaps yet usually identify.,03-05-2025,17-06-2025,user_10,High,In Progress,Feature,7.2,8.2,11,Beginner
+198,Stop hold authority similar let crime billion kind perhaps human authority Congress dog.,02-05-2025,06-05-2025,user_3,Medium,To Do,Bug,7.8,8.6,4,Beginner
+199,Expert then their follow program detail old hear call next about food.,15-05-2025,14-06-2025,user_10,Medium,In Progress,Feature,11.4,9.2,8.5,Intermediate
+200,Film always drop once up young account spend room individual state develop employee.,21-06-2025,18-07-2025,user_10,Medium,To Do,Bug,6.5,5.2,2.5,Intermediate
+201,Bed figure audience deep forget establish Democrat and sound.,08-06-2025,21-06-2025,user_7,Medium,To Do,Improvement,11.8,13.1,8.7,Intermediate
+202,Once operation worry common debate control south.,25-06-2025,13-07-2025,user_4,Medium,To Do,Bug,1.2,1.4,3.7,Expert
+203,Wrong course need yourself value million career determine authority audience available claim wonder animal.,24-06-2025,03-07-2025,user_8,Low,To Do,Bug,1.5,1.2,9,Beginner
+204,Rate recognize two various five worker theory Mrs wish.,20-06-2025,21-07-2025,user_2,Low,In Progress,Feature,2.4,2.4,3.3,Expert
+205,Loss throw during win present heavy people occur blood industry environmental.,01-05-2025,12-06-2025,user_2,Medium,In Progress,Improvement,10.4,8.3,10.3,Expert
+206,Push author too them great church field system hand sure letter case similar.,25-06-2025,19-07-2025,user_10,Low,In Progress,Feature,3.8,4.2,6.9,Intermediate
+207,School life professional hair peace commercial indeed.,20-05-2025,22-05-2025,user_9,Low,To Do,Bug,1.4,1.4,7.6,Expert
+208,Tough series cold probably ability effect.,27-04-2025,11-07-2025,user_6,Medium,Done,Bug,5.8,6.5,11.2,Intermediate
+209,Right knowledge life surface while travel federal happy however result off.,03-05-2025,17-07-2025,user_2,Medium,In Progress,Bug,7.9,9.6,11.1,Intermediate
+210,Somebody successful personal short seat argue explain price base.,19-05-2025,22-06-2025,user_9,High,Done,Feature,2.9,3.3,1.9,Beginner
+211,Improve citizen rich develop summer store life.,17-06-2025,29-06-2025,user_5,Medium,To Do,Feature,5.3,5.7,10.3,Expert
+212,Effort edge mention life interesting fast share particularly possible event environmental.,13-06-2025,24-07-2025,user_8,High,In Progress,Bug,4.5,4.5,11.4,Expert
+213,Church less assume government indeed blood understand here state nearly.,03-06-2025,12-06-2025,user_3,High,To Do,Feature,10.1,12.5,6.9,Intermediate
+214,Official hit task no each stop for cell face hand.,30-04-2025,02-06-2025,user_1,High,In Progress,Feature,2.1,2.7,4.1,Intermediate
+215,Themselves million gun see arm sell help out event manage method our.,14-05-2025,21-07-2025,user_1,High,To Do,Improvement,10,9,9,Intermediate
+216,Recently cost seven again item event surface any choose.,24-06-2025,12-07-2025,user_5,Medium,To Do,Feature,1.1,1.1,7.3,Expert
+217,Site series story step blood positive president similar cell industry character only ten.,15-05-2025,12-07-2025,user_1,Medium,To Do,Feature,1.7,1.2,1.4,Intermediate
+218,Mrs story loss economy population strong.,24-06-2025,06-07-2025,user_3,Medium,To Do,Feature,8.7,9.9,2.7,Intermediate
+219,Suddenly answer speak sort economy federal kind guy.,22-05-2025,08-07-2025,user_1,Low,To Do,Bug,8.8,9.7,6,Intermediate
+220,Plant your customer difficult car blood five.,30-05-2025,13-07-2025,user_5,Medium,In Progress,Feature,4,4.7,9.3,Beginner
+221,Reach political us indeed such senior table yourself prepare.,31-05-2025,23-06-2025,user_7,Medium,To Do,Feature,6.8,5.2,10.3,Intermediate
+222,Usually figure late pretty item treatment.,25-05-2025,27-06-2025,user_5,High,In Progress,Bug,9.3,9.9,9.6,Expert
+223,Fight whole four knowledge democratic special pick school interview weight material.,07-06-2025,25-07-2025,user_2,Medium,To Do,Feature,3.9,4.4,3.9,Beginner
+224,Improve way billion should fight face accept question.,13-06-2025,14-06-2025,user_9,High,To Do,Improvement,8.5,8.4,3.7,Intermediate
+225,Prepare board fund air dark fly.,08-06-2025,20-06-2025,user_5,Medium,To Do,Feature,4.4,5,7.3,Expert
+226,Consider may break wrong current woman bed once figure.,30-04-2025,17-06-2025,user_8,Medium,In Progress,Improvement,5.9,7.9,7.1,Intermediate
+227,Statement design play control movie able group director figure.,11-05-2025,02-07-2025,user_10,Low,In Progress,Feature,4.8,3,6.7,Expert
+228,International almost likely country hour job role by more son discuss unit.,10-06-2025,26-06-2025,user_4,High,To Do,Bug,6.1,7,2.9,Expert
+229,Easy seem subject along Congress go.,29-05-2025,13-06-2025,user_4,Low,In Progress,Bug,1.5,1.8,2.1,Intermediate
+230,Hand another cut require century best home body organization chair arrive prevent join.,01-05-2025,22-06-2025,user_2,High,To Do,Improvement,11,9.3,3.4,Expert
+231,Deep significant what who instead happen quite two trial ready go myself network.,03-06-2025,19-07-2025,user_9,Medium,In Progress,Feature,11.7,11.1,1.8,Beginner
+232,As law author entire prepare film stay.,24-05-2025,24-06-2025,user_4,Medium,In Progress,Feature,2.6,3.3,11,Intermediate
+233,Head cost safe fly film person meeting yet talk.,05-05-2025,13-07-2025,user_4,High,To Do,Feature,11.5,13.2,1,Intermediate
+234,Her to campaign among whom whose stand single field safe rate deep.,08-05-2025,24-07-2025,user_5,Medium,In Progress,Bug,9.8,11.2,10.4,Beginner
+235,Significant civil early concern air add that production onto.,09-06-2025,06-07-2025,user_2,Medium,In Progress,Feature,1.6,2,4,Intermediate
+236,Official newspaper decide five bad president.,24-05-2025,11-07-2025,user_10,Low,To Do,Feature,6,7.2,8.2,Beginner
+237,While send eat husband again statement name side store media.,10-06-2025,01-07-2025,user_1,Low,In Progress,Bug,5.9,4.2,7.9,Intermediate
+238,Practice center message defense to those claim training upon effect.,24-05-2025,15-07-2025,user_10,High,To Do,Feature,2.8,2.3,10.6,Expert
+239,Floor any role culture general at possible specific nothing also finally right.,22-05-2025,07-06-2025,user_3,High,To Do,Bug,4.3,3.2,5.1,Intermediate
+240,Me point despite law main civil require huge.,23-06-2025,08-07-2025,user_9,Medium,To Do,Bug,7.1,6.9,5.9,Intermediate
+241,Sea everybody win heart approach still shoulder price probably camera together win build.,05-05-2025,26-06-2025,user_4,Medium,In Progress,Feature,5.8,5.4,6,Intermediate
+242,Thousand life next tonight chair store ten painting hand alone baby east treat.,28-04-2025,04-07-2025,user_6,Low,In Progress,Feature,11.4,13.2,10.4,Expert
+243,Choice what sea hope somebody program various president.,08-06-2025,25-06-2025,user_4,Low,To Do,Bug,9.9,9.4,9.2,Beginner
+244,Sister listen wonder herself behind program describe development both central special.,28-05-2025,16-06-2025,user_3,High,In Progress,Improvement,5.2,5.6,8,Expert
+245,Blue skin quickly yes present response leave off.,06-05-2025,08-05-2025,user_1,Low,To Do,Feature,2.8,2.3,4.8,Intermediate
+246,Soon the onto father care mind call region better tree.,19-06-2025,07-07-2025,user_1,Medium,To Do,Improvement,2.1,2.6,2.5,Intermediate
+247,If defense bag raise speech actually.,02-05-2025,11-07-2025,user_7,Medium,In Progress,Feature,1.1,1.5,11.2,Intermediate
+248,None customer sing produce himself task eye threat.,15-05-2025,07-07-2025,user_9,Low,Done,Improvement,10.8,11.6,10.2,Expert
+249,Whether team discover product him citizen group kind but.,16-06-2025,30-06-2025,user_1,Medium,Done,Feature,8.9,5.9,6.6,Intermediate
+250,Central our their know month method safe off since represent.,11-05-2025,11-07-2025,user_1,Medium,To Do,Feature,9.9,9.3,11.4,Expert
+251,Research among full miss shoulder with purpose even thank.,20-06-2025,20-07-2025,user_3,High,Done,Bug,11.3,13.5,4.9,Beginner
+252,Author subject you rest find feeling home nothing if rock benefit.,08-05-2025,13-05-2025,user_3,Medium,To Do,Feature,7.1,7.4,12,Intermediate
+253,Able kitchen surface side future history admit up.,02-05-2025,26-05-2025,user_8,Medium,Done,Bug,6,7.4,3.9,Intermediate
+254,Sit candidate those from TV turn arrive.,06-06-2025,12-07-2025,user_5,Medium,To Do,Feature,1.6,1,9.5,Beginner
+255,Black movie risk garden everybody partner scene party seek best though.,15-06-2025,06-07-2025,user_4,Medium,In Progress,Improvement,10.4,11.1,12,Expert
+256,Put result seek maintain Democrat once describe operation rock realize medical would across.,01-06-2025,11-07-2025,user_7,Medium,To Do,Improvement,8.9,8.3,10.7,Expert
+257,Local how significant cut ability people him increase debate bring economy.,09-06-2025,01-07-2025,user_7,Low,In Progress,Improvement,6.4,6.7,7.4,Intermediate
+258,Above hear none three teach leg film push form question beat strong.,17-05-2025,17-06-2025,user_1,Medium,To Do,Improvement,9.2,12.2,11.1,Expert
+259,Amount mention southern available medical power field.,19-05-2025,03-07-2025,user_4,Medium,In Progress,Bug,3.6,5.7,2,Intermediate
+260,World site who radio short day agreement everything military cultural soon.,06-06-2025,16-06-2025,user_1,Medium,In Progress,Bug,1.4,1.6,2,Beginner
+261,Half any business or than long message group quickly reveal practice brother.,04-06-2025,24-07-2025,user_6,Medium,In Progress,Feature,8.7,9.2,2.7,Intermediate
+262,Every machine successful statement every everyone ten woman form statement election reduce growth land.,14-05-2025,19-05-2025,user_2,Low,To Do,Improvement,10.8,12.5,9.6,Expert
+263,Property beyond best yeah break then Republican continue response century measure process force pattern.,14-06-2025,07-07-2025,user_2,Medium,In Progress,Feature,10.6,9.4,2.8,Beginner
+264,Fund east middle threat single six by husband program cup unit where consumer.,12-06-2025,27-06-2025,user_1,Medium,To Do,Bug,8.5,7,8.2,Beginner
+265,Democrat member music strategy perhaps these trial ago from.,08-06-2025,06-07-2025,user_8,High,Done,Improvement,4.6,4.3,4,Expert
+266,Commercial their training from economic nothing marriage wonder drop fish line.,12-06-2025,12-06-2025,user_4,Medium,In Progress,Bug,10.9,12.6,4.3,Intermediate
+267,Put black join community different from always.,20-06-2025,02-07-2025,user_7,Medium,In Progress,Feature,2.3,2,4.7,Intermediate
+268,Help between use magazine senior forward current accept.,19-06-2025,27-06-2025,user_7,Medium,Done,Bug,9,9.9,8,Expert
+269,Radio budget southern social prove good accept east usually poor decide parent offer.,27-05-2025,15-06-2025,user_6,High,To Do,Improvement,5.8,5.7,11.6,Expert
+270,Over little seek human raise somebody dog Mrs.,03-06-2025,19-07-2025,user_4,Medium,In Progress,Feature,9.6,10.9,2.8,Beginner
+271,Others girl resource hold similar peace few.,03-05-2025,30-05-2025,user_4,High,To Do,Bug,1.9,1.9,3,Intermediate
+272,Market and idea nature democratic attorney card notice measure probably test.,23-05-2025,01-07-2025,user_8,Low,To Do,Feature,9.5,9.3,6.9,Intermediate
+273,Him natural evening instead situation feel mean let thing will.,17-06-2025,23-07-2025,user_7,High,In Progress,Improvement,5.9,7,1,Intermediate
+274,Six cost quality we glass dinner.,08-05-2025,28-05-2025,user_10,Medium,In Progress,Improvement,4.1,5.4,6.4,Beginner
+275,Car rate both expect everybody safe.,23-06-2025,22-07-2025,user_9,High,In Progress,Bug,5.1,4.4,5.6,Intermediate
+276,Lawyer which former image candidate consider sell water growth kitchen.,24-05-2025,08-06-2025,user_1,Medium,To Do,Bug,4.6,4.5,7.2,Intermediate
+277,You ball quality miss imagine itself thing effort major tough throw stock road.,21-06-2025,10-07-2025,user_3,Medium,In Progress,Feature,6.7,5.8,3.6,Beginner
+278,Food station product get single defense life police maybe war international with control.,24-05-2025,19-07-2025,user_6,High,In Progress,Bug,6.2,9,4.5,Intermediate
+279,Open beat gas government avoid once question few star wrong factor change bar.,23-06-2025,19-07-2025,user_3,Low,To Do,Feature,1.7,1.9,3.6,Intermediate
+280,Feel heart particularly large fast party.,20-06-2025,18-07-2025,user_2,Medium,To Do,Bug,8.8,10,4.7,Beginner
+281,Court base size few per blood such section recent agent number wall.,05-05-2025,11-05-2025,user_9,Medium,To Do,Improvement,9.3,12.8,4.3,Intermediate
+282,Another allow democratic hundred skin speak carry court apply step represent.,31-05-2025,26-06-2025,user_4,Medium,In Progress,Feature,11.5,11.9,4.4,Expert
+283,Line news necessary money reflect picture clearly.,06-05-2025,12-06-2025,user_3,Medium,In Progress,Feature,6,6.4,8.6,Intermediate
+284,Stay impact fight support stand my already turn middle six out.,26-05-2025,20-07-2025,user_8,Low,In Progress,Feature,5.5,6.4,9.6,Expert
+285,Policy free think kid cup team long add girl at hit let move.,22-05-2025,22-07-2025,user_10,Medium,In Progress,Improvement,2.1,1.8,10.3,Intermediate
+286,Program whom sister find test now wish far agent police talk.,05-05-2025,01-06-2025,user_9,High,Done,Feature,7.2,7.2,4.8,Beginner
+287,Room painting compare hot hot find join fact attorney sport business identify fund.,16-06-2025,14-07-2025,user_5,High,To Do,Feature,11.6,13.5,6.1,Intermediate
+288,Cup later you little tonight pick brother tree dark prevent.,07-05-2025,16-05-2025,user_4,High,Done,Feature,11.3,12.3,7.3,Expert
+289,Air do high performance general suggest every card nothing.,08-06-2025,21-06-2025,user_3,Medium,To Do,Bug,4.7,6.9,2.9,Expert
+290,Student family attention power outside now trade news.,06-06-2025,20-07-2025,user_4,High,In Progress,Improvement,1.1,1.2,2.8,Intermediate
+291,Rock along on success here positive fight thus weight fight tough a pull.,09-06-2025,20-06-2025,user_1,Medium,In Progress,Feature,8.9,7.1,2.5,Beginner
+292,Us by yes project ability large.,07-06-2025,11-07-2025,user_6,High,To Do,Improvement,4.7,4.2,3.6,Expert
+293,Stage church of available until have page two air thought notice.,11-06-2025,12-06-2025,user_10,High,In Progress,Bug,5.2,4.8,6.9,Intermediate
+294,Unit which provide test leader ahead.,17-06-2025,17-07-2025,user_2,Low,To Do,Improvement,10.5,9.2,10.2,Expert
+295,Congress can rule tend ability assume accept all trial main score.,06-06-2025,24-06-2025,user_2,High,In Progress,Bug,8.1,6.3,3.3,Intermediate
+296,Mind ok behavior agency full gas cup prevent admit least artist system.,03-05-2025,26-06-2025,user_4,High,In Progress,Feature,7.5,8.9,3.4,Intermediate
+297,Enough of nothing near adult already hundred season.,20-06-2025,22-06-2025,user_10,High,Done,Improvement,6.3,5.6,2.4,Intermediate
+298,Back vote face south raise food against pressure just become window wrong adult.,10-06-2025,17-07-2025,user_8,High,Done,Bug,10.8,12.1,2.3,Expert
+299,Fight strategy when ask paper method similar year yeah.,28-04-2025,14-05-2025,user_9,Low,To Do,Feature,9.1,8.2,9.4,Intermediate
+300,Future against when guy sometimes glass.,31-05-2025,11-07-2025,user_9,High,To Do,Feature,11.6,14.4,5.8,Intermediate
+301,Fine war nature myself contain last draw born able.,07-05-2025,26-06-2025,user_9,Medium,In Progress,Bug,2.7,1.8,1.7,Intermediate
+302,Day with four however class thing TV.,23-05-2025,22-06-2025,user_3,Medium,Done,Feature,2.8,2.2,7.8,Beginner
+303,Month read sense PM large many available anything body.,05-05-2025,26-06-2025,user_3,Medium,In Progress,Bug,10.2,9.1,6.4,Intermediate
+304,Culture kind try sister hundred throw morning agree across reduce foot high.,15-06-2025,30-06-2025,user_4,High,In Progress,Bug,4.6,3.5,1.9,Intermediate
+305,Between usually cut study name pay would walk attack bring year structure.,12-06-2025,29-06-2025,user_3,High,To Do,Improvement,1.2,1.3,9.2,Expert
+306,Far course travel same right subject which.,22-05-2025,07-06-2025,user_9,Medium,In Progress,Feature,3,3.5,10.6,Intermediate
+307,Myself TV until behavior all me job player opportunity apply of.,13-06-2025,22-07-2025,user_1,High,To Do,Improvement,8.9,8.1,1.5,Expert
+308,Significant development when consider idea finish scene simple realize cover health yeah.,27-04-2025,15-05-2025,user_8,Medium,To Do,Bug,8.3,11.5,3.9,Beginner
+309,Weight experience this fill hear blue identify response.,05-06-2025,25-07-2025,user_2,High,In Progress,Improvement,2.3,2.4,8.6,Intermediate
+310,Whatever partner make behind it one scene accept.,27-04-2025,07-07-2025,user_8,Medium,To Do,Bug,3.2,3.2,7.5,Beginner
+311,Similar establish even sit near girl.,14-06-2025,06-07-2025,user_7,High,To Do,Improvement,2.5,3.3,9.3,Expert
+312,Reflect along kind radio cup above yourself tree threat operation.,19-05-2025,28-06-2025,user_1,Medium,To Do,Bug,4.4,4,4.8,Intermediate
+313,Could institution itself foreign audience list.,30-04-2025,27-05-2025,user_7,Low,To Do,Bug,5.7,6.6,5.4,Expert
+314,Great provide blood why company move or suddenly dinner.,13-05-2025,17-06-2025,user_8,High,To Do,Improvement,3.6,3,6.9,Intermediate
+315,Perform machine guy artist film tough type.,27-04-2025,18-07-2025,user_1,Medium,To Do,Bug,10.4,9.8,1.1,Intermediate
+316,Under physical market charge police live hear center gas.,01-06-2025,05-07-2025,user_9,High,In Progress,Feature,4.3,6.2,7.3,Intermediate
+317,Recent civil office natural whether sister billion site continue police.,12-06-2025,20-06-2025,user_2,Low,In Progress,Feature,4.8,6.1,3.5,Intermediate
+318,Fall child wish law method management dream.,11-06-2025,30-06-2025,user_9,Low,In Progress,Improvement,7.7,6,1.3,Intermediate
+319,Happy car wide why movement amount close happy nation couple Mrs work.,19-06-2025,20-07-2025,user_9,High,In Progress,Improvement,3.8,3.8,5,Intermediate
+320,Product staff just message middle program rise language clearly.,16-06-2025,06-07-2025,user_7,Low,In Progress,Feature,6.5,7.1,1.6,Intermediate
+321,Point discussion nature wear whether war paper sometimes air.,12-05-2025,18-05-2025,user_8,High,Done,Bug,1.6,1,1.3,Beginner
+322,Special alone land time ask buy do how scene tax one long social.,22-05-2025,07-07-2025,user_2,Medium,To Do,Improvement,10.2,13.9,8.7,Expert
+323,Ahead me friend western artist according audience practice value opportunity may night.,24-06-2025,26-06-2025,user_5,Medium,In Progress,Feature,7.8,8.1,2.4,Expert
+324,Time affect term until why decide kid amount.,07-05-2025,16-07-2025,user_9,Medium,In Progress,Improvement,7.7,10.3,2.3,Intermediate
+325,Key something save can foreign should.,17-06-2025,14-07-2025,user_7,Low,In Progress,Feature,6.7,4.5,4.9,Intermediate
+326,Happen imagine institution fact plant most rate.,16-06-2025,20-07-2025,user_2,Medium,To Do,Feature,11.1,11,9.4,Intermediate
+327,Deep major language activity institution him compare population else like structure training case.,16-05-2025,23-06-2025,user_6,Medium,To Do,Feature,2.4,1.5,3.6,Intermediate
+328,Language drop myself support statement away stuff tax population from alone forward involve.,07-06-2025,10-07-2025,user_10,Medium,Done,Feature,4.5,5.2,4.7,Intermediate
+329,Within food need show ground Democrat.,20-05-2025,01-06-2025,user_9,Low,In Progress,Feature,9.8,11.4,11.3,Intermediate
+330,Skill not candidate no challenge law woman president live include case represent face skin.,09-05-2025,09-06-2025,user_3,Medium,In Progress,Improvement,10.8,12.5,3.8,Expert
+331,Language often machine money throw benefit statement down personal.,21-06-2025,07-07-2025,user_4,Low,In Progress,Bug,4.2,3.9,11.8,Beginner
+332,Boy current compare itself mission face human increase some.,28-04-2025,12-07-2025,user_7,High,In Progress,Improvement,7.1,5.4,4.6,Expert
+333,More six carry task him investment end character kid travel president carry baby reality.,24-06-2025,26-06-2025,user_1,High,To Do,Improvement,5.6,5.5,3.6,Intermediate
+334,Wish speak commercial represent sign recent.,16-05-2025,27-06-2025,user_8,Medium,To Do,Bug,5.9,9.6,5.8,Intermediate
+335,Government shake staff pull most then traditional wrong cause or write system where.,15-05-2025,08-06-2025,user_7,High,To Do,Bug,6.7,6.8,1.4,Intermediate
+336,Lay home treat deep program speech.,22-06-2025,24-07-2025,user_3,Low,To Do,Feature,11.3,9.6,4,Intermediate
+337,Hotel music bar sign along side.,01-06-2025,10-07-2025,user_7,High,In Progress,Feature,9.9,10.3,8,Intermediate
+338,Standard draw move into back scientist.,17-06-2025,20-07-2025,user_5,High,To Do,Improvement,2.2,2.4,6,Expert
+339,Whole spend think concern leave with company personal star.,20-05-2025,18-06-2025,user_2,Low,To Do,Improvement,5.6,5.6,1.5,Beginner
+340,Pass mean despite lay age activity.,06-05-2025,25-06-2025,user_4,Medium,Done,Feature,5,4.7,4.5,Intermediate
+341,Share compare day drive only girl election off opportunity grow whom reality.,14-05-2025,30-05-2025,user_8,Low,In Progress,Bug,2.5,2.6,7.3,Intermediate
+342,Weight cut glass change would wrong message part home list design nor Democrat.,22-05-2025,25-06-2025,user_9,Medium,Done,Bug,8.6,9.1,10.8,Intermediate
+343,Citizen impact image rather return major couple sing way a.,12-05-2025,18-06-2025,user_8,High,To Do,Improvement,9.9,12.9,11.9,Intermediate
+344,Party industry free range suggest run.,10-05-2025,30-05-2025,user_8,Low,In Progress,Improvement,5,5.3,6.3,Beginner
+345,Life difficult plan school table cultural.,04-05-2025,26-06-2025,user_3,High,To Do,Improvement,1.1,1.2,7.6,Intermediate
+346,Certainly particularly member need program doctor produce run style week little reason.,25-05-2025,10-07-2025,user_4,Medium,To Do,Bug,6.5,4.9,1.2,Expert
+347,Vote modern mouth order top begin moment.,16-05-2025,03-07-2025,user_4,Medium,In Progress,Feature,1.8,2.1,8.7,Intermediate
+348,Mr set game list person too pattern fly join past note land goal.,25-06-2025,01-07-2025,user_3,Medium,In Progress,Feature,7.3,6.4,9.7,Intermediate
+349,Modern group heavy place recognize budget me.,14-06-2025,02-07-2025,user_6,High,To Do,Feature,9.9,10.2,9.4,Intermediate
+350,Me religious leg term indicate apply type dark.,02-06-2025,16-06-2025,user_9,Low,Done,Improvement,10.3,10.3,9.1,Intermediate
+351,High economy condition note right easy.,06-06-2025,11-06-2025,user_1,Medium,In Progress,Bug,1.7,1.3,4.1,Intermediate
+352,Close entire imagine language risk community carry could read.,23-06-2025,13-07-2025,user_3,High,In Progress,Feature,3.1,2.7,9.1,Beginner
+353,Add view trade choice war yourself around especially success player.,30-04-2025,06-06-2025,user_1,Medium,In Progress,Bug,3.4,3.5,9.5,Beginner
+354,Able include example lay score material.,23-05-2025,13-07-2025,user_8,Medium,Done,Bug,1.6,1.4,10.6,Expert
+355,Oil among peace century place evening include couple research special meet owner.,04-05-2025,02-07-2025,user_3,Medium,To Do,Feature,9.1,11.8,5.7,Expert
+356,Speech training wrong without develop job find movement for.,01-05-2025,20-06-2025,user_1,Medium,In Progress,Bug,9.5,10.6,1.5,Intermediate
+357,Decade commercial high follow beyond open threat best century list assume foot.,22-05-2025,08-06-2025,user_3,Medium,Done,Improvement,11,13.9,10.7,Intermediate
+358,Small old from view drop trade explain within quickly occur.,12-06-2025,23-06-2025,user_1,Medium,In Progress,Feature,11.1,13.1,4.3,Intermediate
+359,Particular attack receive develop bar pick lead last firm production.,01-05-2025,20-06-2025,user_6,High,In Progress,Feature,8.4,10,6.2,Beginner
+360,Per here often can among court fine among.,13-05-2025,20-06-2025,user_1,High,In Progress,Improvement,5.4,4.4,9.8,Expert
+361,Leader no analysis policy response indeed give during technology analysis late perhaps.,18-06-2025,03-07-2025,user_10,Medium,In Progress,Improvement,9.8,11.2,9.8,Intermediate
+362,But situation world wait public chair activity.,19-06-2025,25-06-2025,user_3,High,In Progress,Bug,8.5,13.9,2,Expert
+363,Particularly specific what face send miss hand beyond imagine memory no research.,15-06-2025,05-07-2025,user_7,Medium,In Progress,Bug,3.9,3.8,10.2,Intermediate
+364,Write last give reflect phone support dream research yes choose window goal.,19-05-2025,05-06-2025,user_10,Medium,In Progress,Feature,1.8,1.8,3.2,Intermediate
+365,With they those Democrat half despite deep stand receive dog pass property speak.,05-05-2025,05-05-2025,user_9,Medium,Done,Improvement,9.8,10.9,8.4,Beginner
+366,Pressure participant station ability pretty your tonight state history anything.,07-06-2025,23-06-2025,user_6,High,In Progress,Improvement,5.8,6.2,7.7,Intermediate
+367,North goal treat chance could seven growth truth outside.,11-06-2025,24-06-2025,user_4,Low,In Progress,Feature,8.4,7.7,8,Expert
+368,Leg bank minute artist process garden election something talk study wear.,12-05-2025,27-05-2025,user_1,Low,In Progress,Feature,8.1,10.4,7.6,Expert
+369,Him program child hot hear admit run establish face feeling.,24-06-2025,10-07-2025,user_1,Low,In Progress,Feature,2.2,2.5,9,Expert
+370,When magazine small newspaper happen real house figure.,24-06-2025,15-07-2025,user_9,Low,To Do,Bug,8.6,6.4,2.8,Expert
+371,Value describe tell my at set public you society create hospital control.,09-05-2025,19-07-2025,user_5,High,To Do,Bug,10.9,14.6,8.6,Intermediate
+372,Six others day condition respond reduce manage itself recent reason.,09-06-2025,24-07-2025,user_10,Medium,To Do,Improvement,1.7,1.9,1.4,Intermediate
+373,Make prove week happen purpose heavy father.,31-05-2025,11-07-2025,user_10,Low,To Do,Improvement,11.4,9.1,1.8,Beginner
+374,Performance major ready soon kitchen investment image third as floor ability.,04-06-2025,10-07-2025,user_9,Low,In Progress,Improvement,2.4,2.4,3.9,Beginner
+375,Discover keep structure compare pattern suffer whom sort fall toward.,18-06-2025,18-07-2025,user_10,High,In Progress,Improvement,5.7,4.5,7.4,Expert
+376,True else suddenly least huge research rise American newspaper.,24-06-2025,30-06-2025,user_2,Medium,In Progress,Bug,5.9,5.3,1.7,Intermediate
+377,Ok challenge property raise step capital responsibility.,18-06-2025,16-07-2025,user_6,Low,Done,Bug,10.2,9.8,1.2,Expert
+378,Seat size draw west traditional home parent present physical first decade.,27-04-2025,04-06-2025,user_6,High,Done,Feature,11.8,12.9,9.3,Intermediate
+379,Worry finally involve off local show everything involve.,18-05-2025,29-06-2025,user_7,Medium,To Do,Improvement,6.5,8.9,6.6,Intermediate
+380,Beautiful coach interest me true all rise.,07-05-2025,01-07-2025,user_5,Medium,In Progress,Bug,7.2,8.1,5.5,Intermediate
+381,Drug quickly new who economic official cut.,21-06-2025,24-07-2025,user_1,Medium,To Do,Feature,9.8,12.1,6.7,Intermediate
+382,Too wide write surface face feel girl.,27-04-2025,08-07-2025,user_8,High,To Do,Improvement,7.8,6.4,10.4,Beginner
+383,There interest phone money material sort particularly third door unit concern.,25-05-2025,13-07-2025,user_7,Low,In Progress,Feature,8.3,9.1,11.7,Expert
+384,Wife trip from care order someone.,23-06-2025,23-06-2025,user_1,Medium,In Progress,Feature,3.2,3.2,5.5,Beginner
+385,Citizen send instead several history responsibility wide loss the heavy home.,24-06-2025,02-07-2025,user_4,High,In Progress,Feature,11.6,11.4,7.7,Intermediate
+386,Even green while reveal home girl.,28-04-2025,02-05-2025,user_5,High,In Progress,Bug,10,10.5,1.9,Intermediate
+387,Resource range conference law born front bit.,07-06-2025,27-06-2025,user_4,Medium,To Do,Improvement,1.7,1.6,11.9,Intermediate
+388,That Democrat federal once also now write.,24-05-2025,03-06-2025,user_3,Low,In Progress,Feature,11.4,11,7.4,Expert
+389,Least now discussion standard before open establish woman economy close for school task.,23-06-2025,16-07-2025,user_10,High,In Progress,Bug,9.3,13.7,8.9,Beginner
+390,Woman local whole save as maintain theory wide free rest such must.,16-05-2025,12-07-2025,user_9,Medium,Done,Bug,8.6,8.4,8.2,Intermediate
+391,Win at lay million go suggest interest last court.,25-05-2025,14-07-2025,user_8,Low,To Do,Bug,6.9,6.7,4.6,Intermediate
+392,Yet every use investment prove win eye range player bank.,12-06-2025,02-07-2025,user_5,High,In Progress,Improvement,10.7,10,1.4,Expert
+393,Work school age choose else her or others away author entire plan detail base.,09-05-2025,14-05-2025,user_10,Low,In Progress,Bug,10.9,10.7,8.4,Intermediate
+394,Field interview test forward green give loss.,19-06-2025,27-06-2025,user_1,Low,In Progress,Improvement,3.3,2.3,3.6,Intermediate
+395,Give not information food lawyer hospital.,24-06-2025,26-06-2025,user_10,Low,To Do,Feature,7.5,7.5,5.4,Expert
+396,Take parent within thousand teacher first.,22-05-2025,25-07-2025,user_7,High,To Do,Feature,9.9,9.4,7,Beginner
+397,On military act which factor left simply many a author able.,08-06-2025,14-06-2025,user_2,High,In Progress,Feature,10.9,11.8,2.9,Intermediate
+398,Large media meeting author they card.,31-05-2025,26-06-2025,user_10,Low,To Do,Feature,9.7,7.1,12,Expert
+399,Small whole husband change too prove government ask central ever.,02-06-2025,11-06-2025,user_9,Low,To Do,Bug,4.5,5.2,3.5,Intermediate
+400,Within successful show into speak discuss myself ten.,09-06-2025,03-07-2025,user_1,Medium,In Progress,Bug,9.4,11.8,3.3,Expert
+401,At catch research dark smile the goal school rise.,07-05-2025,21-06-2025,user_4,Medium,Done,Bug,8.2,6.2,8,Intermediate
+402,Lead section stage despite moment series recognize mean doctor factor both next.,06-05-2025,07-07-2025,user_2,Medium,In Progress,Feature,6.2,5.4,2.3,Expert
+403,History customer blue live data art wrong.,14-06-2025,10-07-2025,user_8,Medium,In Progress,Feature,10.1,9.3,8.2,Expert
+404,How couple travel if result board establish father in.,19-06-2025,20-06-2025,user_4,Medium,To Do,Bug,1.7,1.7,6.3,Expert
+405,Ability beat glass look tonight Republican determine day increase.,06-06-2025,13-07-2025,user_2,Medium,To Do,Feature,7.7,8.6,7.2,Expert
+406,Should seven seat scientist answer against in reason election main.,25-05-2025,16-06-2025,user_3,High,In Progress,Feature,1.6,0.9,6.1,Expert
+407,Table brother mother he fact line environment resource eight.,09-06-2025,23-07-2025,user_10,Medium,Done,Bug,4,3.6,10.7,Expert
+408,Former team act task recognize soon help book.,18-05-2025,25-05-2025,user_7,Medium,In Progress,Feature,3.4,3.1,6.9,Beginner
+409,Surface happen loss despite war leader speak medical yet most election here upon.,07-06-2025,24-07-2025,user_2,Low,In Progress,Feature,10.7,9.3,5,Expert
+410,Current Republican fish film shake line determine by land.,16-05-2025,29-05-2025,user_3,Low,In Progress,Bug,10.7,13.1,4.8,Intermediate
+411,Represent actually away institution everybody goal learn success letter program.,11-05-2025,10-07-2025,user_3,Low,Done,Bug,3.5,3.3,8.6,Expert
+412,Well once research movement though share teach community.,20-06-2025,10-07-2025,user_2,Low,To Do,Feature,2.1,1.6,4.7,Expert
+413,Peace happy mind main tend discover need.,18-05-2025,17-07-2025,user_4,Medium,Done,Feature,9.9,8.7,3.6,Beginner
+414,Agency clear a parent sing realize others century beautiful mind probably owner.,27-05-2025,19-06-2025,user_2,Low,In Progress,Bug,2.7,1.9,8.9,Expert
+415,Person decade between young life spring while family.,24-06-2025,24-07-2025,user_7,High,To Do,Bug,10,6.5,9.3,Intermediate
+416,Speech herself probably likely color responsibility job.,29-05-2025,02-07-2025,user_3,Low,To Do,Bug,8.9,9,4,Intermediate
+417,Large really range court number already follow fast represent positive.,15-05-2025,21-07-2025,user_10,Medium,Done,Improvement,5.4,7.1,6.3,Beginner
+418,Fly forget stop section wide TV.,07-05-2025,25-06-2025,user_1,Low,Done,Improvement,5.4,4.1,3,Intermediate
+419,Already ready official else long foot stand data case current local actually summer.,29-04-2025,25-07-2025,user_10,Medium,To Do,Improvement,5,4.9,3.7,Beginner
+420,Stuff nature structure through anything hour election work laugh then still.,01-06-2025,18-06-2025,user_7,Low,To Do,Improvement,3.9,4.2,10.6,Intermediate
+421,Main factor front list like worry station difference safe join need million long.,18-05-2025,26-06-2025,user_5,Low,Done,Bug,3.5,4.6,4.2,Intermediate
+422,Professional boy service unit goal next media need or tree.,10-05-2025,22-06-2025,user_10,Medium,To Do,Feature,7.7,7.8,4.7,Expert
+423,Consumer agree Republican itself site base tree hope impact rock beautiful.,10-05-2025,06-07-2025,user_3,Medium,Done,Feature,4.2,4.7,2.9,Expert
+424,Reveal buy need project travel magazine right.,21-06-2025,24-07-2025,user_8,Medium,Done,Improvement,4.3,4.7,11.3,Expert
+425,Standard visit why process direction reason loss organization investment suddenly letter play also.,13-06-2025,16-06-2025,user_6,Medium,In Progress,Feature,12,9.6,8.3,Beginner
+426,From seven how lawyer follow detail light.,05-05-2025,28-06-2025,user_10,Medium,To Do,Improvement,9.8,11.9,6.2,Expert
+427,Those unit hot reason town with per.,11-05-2025,17-06-2025,user_1,Low,In Progress,Improvement,8,6.8,1,Intermediate
+428,Focus hotel method born fly girl join television choose thought quickly arrive.,24-06-2025,20-07-2025,user_9,Low,In Progress,Bug,2.7,3.1,10.9,Expert
+429,Service least smile factor clear firm hair identify plant may pay return.,09-06-2025,01-07-2025,user_6,Medium,In Progress,Improvement,3.2,3.8,3.8,Expert
+430,Kitchen glass local garden easy wait perform cold entire suffer article boy appear.,28-05-2025,22-07-2025,user_7,Medium,To Do,Improvement,6.8,7.5,1.5,Expert
+431,Lawyer tough thank very amount film international cost new far effect bed probably teacher.,15-05-2025,26-05-2025,user_9,Medium,In Progress,Bug,11.3,12,2.5,Intermediate
+432,Than than bad mother yeah six.,08-05-2025,29-05-2025,user_10,Medium,In Progress,Bug,7.2,6.7,10.4,Intermediate
+433,Wind support work future production produce rather score American professional.,30-05-2025,09-07-2025,user_7,Medium,To Do,Bug,4.8,4.2,5.6,Intermediate
+434,Series paper size management myself candidate resource line actually do group.,11-05-2025,25-07-2025,user_6,Low,In Progress,Improvement,2.6,3.2,9,Intermediate
+435,Front office most kitchen time test.,01-06-2025,21-07-2025,user_4,Low,To Do,Bug,9.6,12.1,10.2,Beginner
+436,Weight time image attack decision what whose many lawyer share money.,10-05-2025,11-07-2025,user_10,Medium,To Do,Improvement,1.1,1.4,7.9,Intermediate
+437,Direction the business history rather answer leg last air care city box occur.,11-06-2025,05-07-2025,user_2,High,To Do,Improvement,7.3,7,8.8,Expert
+438,Fire officer effort identify song turn trial significant watch without.,03-06-2025,25-06-2025,user_5,High,In Progress,Improvement,10.6,12.9,5.3,Intermediate
+439,Yeah plant need especially plan tough.,01-05-2025,06-06-2025,user_8,High,To Do,Improvement,9.5,10.9,1.4,Beginner
+440,Travel field spring former next actually push help student good consumer election least three.,15-06-2025,02-07-2025,user_8,High,In Progress,Feature,1.7,1.9,6.2,Intermediate
+441,Participant sign yard hand ready bring concern choose exactly later hour real group.,27-04-2025,29-04-2025,user_8,Medium,In Progress,Improvement,9.5,10.2,5.3,Beginner
+442,Leave range drive recognize way wide note high character green else his.,10-06-2025,12-06-2025,user_3,Medium,In Progress,Improvement,11,9.1,7.3,Beginner
+443,Now provide over road work data raise company.,16-06-2025,25-07-2025,user_10,Low,To Do,Bug,10.8,11.1,6.5,Intermediate
+444,Claim break other season road accept rather leg.,06-06-2025,17-07-2025,user_3,Medium,Done,Bug,8.1,8.3,6.6,Expert
+445,Ground you yard fire Democrat future training page large forward my prepare.,11-06-2025,13-07-2025,user_2,Medium,In Progress,Bug,3.6,3.8,4.9,Intermediate
+446,Situation effect affect energy off half night once sister.,24-05-2025,16-06-2025,user_4,High,In Progress,Improvement,6.1,5.7,9.1,Beginner
+447,Herself most truth significant modern you establish institution home threat.,28-05-2025,22-07-2025,user_10,Low,Done,Feature,1.1,1.1,7.5,Beginner
+448,Trial too world week wind north political foot society.,25-05-2025,18-06-2025,user_6,Medium,Done,Bug,7.3,6.5,11.2,Beginner
+449,Small test this present image vote.,30-05-2025,23-07-2025,user_3,High,In Progress,Feature,11,10.2,7.3,Intermediate
+450,Partner great different popular before together meet under significant strong happen American air huge.,08-05-2025,04-07-2025,user_8,High,To Do,Improvement,5.6,5.6,10.7,Intermediate
+451,Claim gas say system might technology whole machine everybody still value.,01-06-2025,07-07-2025,user_7,High,In Progress,Bug,1.4,1.6,9.9,Intermediate
+452,Describe service Republican amount small best game discuss majority catch campaign.,10-05-2025,12-05-2025,user_9,High,Done,Improvement,6.8,4.4,10.1,Beginner
+453,Old control create knowledge rest medical either community morning each.,06-05-2025,17-05-2025,user_3,Medium,In Progress,Feature,6.8,6.1,5.2,Intermediate
+454,Ago garden your data so city machine there authority pick series development.,21-06-2025,15-07-2025,user_5,Low,To Do,Improvement,6.5,6.5,11.4,Intermediate
+455,Reflect military relate receive traditional car.,03-06-2025,10-06-2025,user_4,Medium,Done,Feature,9.4,8.4,10.5,Intermediate
+456,Doctor lose argue your movie gun.,18-06-2025,23-06-2025,user_9,Medium,Done,Feature,5.3,4.6,9.8,Expert
+457,Small agency cover hear poor food concern course.,12-05-2025,01-07-2025,user_3,High,To Do,Bug,8.4,7.2,9.8,Intermediate
+458,Own two eye eight positive organization.,31-05-2025,07-06-2025,user_9,Medium,To Do,Bug,9.4,7.5,11.7,Expert
+459,Ever then trip north edge stand maybe size sign.,27-05-2025,03-06-2025,user_9,Medium,To Do,Feature,8.9,6.6,3.4,Expert
+460,Think into amount manager order field according cost seven.,01-05-2025,24-06-2025,user_8,High,In Progress,Feature,1.5,1.6,9.1,Beginner
+461,Million man agreement culture general development mouth thing onto society.,14-05-2025,11-07-2025,user_10,Low,To Do,Bug,1.8,1.9,3.8,Intermediate
+462,His bit husband himself receive employee probably.,05-05-2025,19-06-2025,user_5,High,Done,Improvement,3.3,3.1,3.2,Intermediate
+463,Sometimes site stage term mean already season must how notice.,10-06-2025,23-06-2025,user_6,Medium,Done,Bug,5.1,5.8,4.9,Intermediate
+464,Accept hospital able article pass policy example cup score.,09-05-2025,03-06-2025,user_2,High,In Progress,Bug,7.7,5.8,1.9,Intermediate
+465,Specific art truth into ball feel operation cup.,20-06-2025,22-06-2025,user_9,Medium,Done,Bug,1,1,9.6,Intermediate
+466,Threat certainly near test including treat Mr compare.,11-05-2025,02-06-2025,user_2,Medium,In Progress,Bug,1.5,1.5,1.5,Intermediate
+467,Should any short by add current finish full population receive situation put success.,07-06-2025,07-06-2025,user_5,Low,To Do,Improvement,1.8,1.3,11.2,Intermediate
+468,Remain less hear save player seek his trial.,05-06-2025,03-07-2025,user_7,Medium,In Progress,Feature,8.3,9.2,7,Intermediate
+469,Listen beautiful impact skill address culture girl consider her thought.,30-04-2025,25-06-2025,user_2,Medium,In Progress,Improvement,2.6,3,4.8,Intermediate
+470,School draw all while foreign wonder marriage system seat simply.,31-05-2025,09-07-2025,user_4,High,In Progress,Improvement,4.3,3.4,11,Expert
+471,Class month serve discover something recently reveal news public although be positive purpose leg.,14-06-2025,06-07-2025,user_10,Medium,To Do,Bug,7,7,1.8,Intermediate
+472,Bit for safe your carry red nation fire present smile sometimes.,11-05-2025,29-06-2025,user_10,High,In Progress,Improvement,6.1,5.9,5.9,Intermediate
+473,Point sport explain lawyer common state bill we team police government.,12-05-2025,12-05-2025,user_4,High,In Progress,Bug,3,2.4,8.2,Beginner
+474,Whom history most remember there international continue director.,05-05-2025,13-07-2025,user_2,High,To Do,Improvement,2.8,2.6,8.8,Intermediate
+475,Environment pick others foreign debate kitchen not fact fire account whose identify.,21-06-2025,26-06-2025,user_6,High,Done,Improvement,9.5,8.9,2.3,Expert
+476,Federal war question simply behavior act condition see country pressure air.,03-06-2025,13-07-2025,user_4,Low,To Do,Bug,3.3,2.6,6,Intermediate
+477,Reach health make feeling hit reveal participant none east purpose whether break.,04-06-2025,04-07-2025,user_9,High,To Do,Bug,5.6,5.1,8.1,Expert
+478,Movie sometimes already president bill customer.,07-05-2025,10-05-2025,user_10,Low,Done,Feature,6.6,8.5,10.5,Expert
+479,Business range law anything once large crime bit author street authority.,12-05-2025,02-06-2025,user_7,High,In Progress,Improvement,9.3,6.5,7.8,Beginner
+480,Store plant amount between history put charge player happen military million.,01-05-2025,08-07-2025,user_1,Low,In Progress,Improvement,3.5,5.3,5.5,Expert
+481,Quite seven whole position from pressure call land.,24-05-2025,29-05-2025,user_5,Medium,In Progress,Improvement,1.3,1.4,2.6,Intermediate
+482,Fly join can program training financial land.,24-05-2025,31-05-2025,user_1,Low,In Progress,Improvement,1.6,2.3,2,Beginner
+483,Mind friend you discussion her huge assume church.,20-06-2025,17-07-2025,user_1,Medium,To Do,Improvement,6.1,6.7,7,Beginner
+484,Rock improve agreement condition if much society ready social example class.,29-05-2025,22-07-2025,user_5,Medium,To Do,Bug,9.6,9.8,7.3,Intermediate
+485,Ago media forward cause occur stock.,17-06-2025,21-06-2025,user_7,High,Done,Feature,9,9.2,2.6,Intermediate
+486,Believe lay establish board democratic best only green.,28-05-2025,14-06-2025,user_9,High,To Do,Improvement,5.3,5.6,8.3,Expert
+487,Fly can establish prepare six success training history art drive area specific.,13-06-2025,03-07-2025,user_2,Medium,To Do,Improvement,8.7,10,10.3,Intermediate
+488,Pressure affect despite concern future history.,22-06-2025,23-06-2025,user_7,High,To Do,Bug,5.6,4.9,7.1,Expert
+489,School career its cold sort child relationship.,18-06-2025,03-07-2025,user_4,Medium,In Progress,Improvement,3.9,4.4,11.2,Expert
+490,Grow understand garden professor sit though heavy least truth field let.,14-05-2025,04-06-2025,user_7,Low,In Progress,Bug,5.8,7.1,1.2,Intermediate
+491,Box choose turn agree southern discover staff kind life bit.,23-06-2025,17-07-2025,user_2,High,In Progress,Feature,2.2,2.4,9.3,Intermediate
+492,Fire Republican former visit hotel before professor.,01-06-2025,13-07-2025,user_8,Medium,To Do,Improvement,12,12,6.1,Intermediate
+493,Ready receive anyone research thought garden buy oil behavior article very bad art.,15-06-2025,27-06-2025,user_10,High,To Do,Feature,5,6.6,5.1,Expert
+494,Quite decision section believe particular network recently room behind step source.,19-05-2025,26-06-2025,user_9,Low,To Do,Improvement,11.4,13.3,10,Expert
+495,Vote man fish form it human rich billion perform.,04-05-2025,19-07-2025,user_5,High,In Progress,Feature,4,5,5,Intermediate
+496,Put manager together top book case religious hair.,08-06-2025,17-07-2025,user_5,Medium,To Do,Improvement,2.5,2.1,11.3,Intermediate
+497,Want set wife fire there often skill.,23-05-2025,07-07-2025,user_7,High,To Do,Bug,7.2,6.8,10,Intermediate
+498,You deep difference later former business more spring however describe.,20-06-2025,01-07-2025,user_6,Medium,In Progress,Feature,7,8,11.2,Intermediate
+499,Measure analysis realize build specific perhaps same point employee religious.,01-06-2025,10-06-2025,user_2,Low,In Progress,Improvement,8.6,9.5,11.1,Beginner
+500,Agency brother dog card doctor star everyone main green attack general writer hit.,23-06-2025,25-07-2025,user_10,Low,In Progress,Improvement,6,6.4,7.6,Expert
